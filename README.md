@@ -1,16 +1,38 @@
-## Hi there 👋
+# Huidrom Rohitkumar Meitei
 
-<!--
-**huidrom-rohitkumar/huidrom-rohitkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Tech, Cyber Physical Systems @ IIT Kharagpur  
+Building **real-time intelligent systems** combining software, AI, and embedded systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Developing **speaker and language diarization systems** (Master’s thesis)  
+  → solving “who spoke what and in which language” from raw audio  
+- Building strong expertise in **DSA and system design** for software roles  
+
+---
+
+## Tech Stack
+- **Languages:** C++, C, Python, Embedded C  
+- **ML/AI:** PyTorch, NumPy, scikit-learn  
+- **Systems:** Ubuntu, Git  
+- **Core Areas:** Data Structures & Algorithms, Embedded Systems, Machine Learning, Speech Processing, Software Systems  
+
+---
+
+## What I’m Targeting
+- Software Engineering (Backend / Systems)  
+- Machine Learning / AI (Speech-focused roles)  
+- CPS / Robotics / Embedded AI  
+
+---
+
+## How to Reach Me
+- 📧 [Email](mailto:rohithuidrom2020@gmail.com)  
+- 🔗 [LinkedIn](https://linkedin.com/in/huidrom-rohitkumar)
+
+---
+
+## Notes
+- Currently building and uploading focused, high-quality projects  
+- Profile will reflect ongoing work and systems built over time  
