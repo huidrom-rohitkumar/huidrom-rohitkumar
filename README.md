@@ -28,8 +28,8 @@ Building **real-time intelligent systems** combining software, AI, and embedded 
 ---
 
 ## How to Reach Me
-- 📧 [Email](mailto:rohithuidrom2020@gmail.com)  
-- 🔗 [LinkedIn](https://linkedin.com/in/huidrom-rohitkumar)
+- Email - rohithuidrom2020@gmail.com
+- LinkedIn - https://linkedin.com/in/huidrom-rohitkumar
 
 ---
 
